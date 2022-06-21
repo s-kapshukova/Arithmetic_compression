@@ -1,1 +1,1 @@
-# Arithmetic-compression
+# Arithmetic_compression
